@@ -1,0 +1,504 @@
+*{
+    margin: 0px;
+      padding: 0px;
+   box-sizing: border-box;
+   }
+   header{
+   
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+   align-items: center;
+   background-color: #f2fafd;
+
+}
+
+nav{
+    
+ 
+
+
+}
+
+nav ul li{
+ display: inline-block;
+ margin-left: 20px;
+padding-right: 12PX;
+text-align: right;
+}
+.hm{
+    color: #55d2cc;}
+
+ul li a{
+
+    color: black;
+
+    font-size: 16PX;}
+    .containert{
+    
+        display: flex;
+        justify-content: center;
+     background: url(picture/wm.png) no-repeat;
+    
+        
+    
+    }
+
+    .ccontainert{
+    
+        display: flex;
+        justify-content: center;
+     border: #f6f6f6;   
+     
+        
+    
+    }
+    .fffive h1 p {
+        color: black;
+    
+        
+        
+    
+    }
+    .fffive h1  {
+        color: black;
+        padding-bottom: 15px;
+    
+        
+        
+    
+    }
+
+
+    .fffive{
+        
+            width: 100%;
+            height: hv;
+            text-align: center;
+            padding-bottom: 112px;
+            margin-top: 50px;
+            
+        
+        
+    }
+
+
+    
+    .five{
+        width: 100%;
+        height: hv;
+        text-align: center;
+        padding-bottom: 112px;
+        
+    }
+    
+    
+    .five> h1{
+      margin-top: 96px;
+      font-size: 40px;
+      color: white;
+    }
+    
+    .five> p{
+         margin-top: 40px;
+        font-size: 21.33px;
+        color: white;
+      }
+      .five> img{
+        margin-top: 40px;
+      }  
+      
+        .containers{
+          
+        }
+
+
+      .containertt{
+    
+        display: flex;
+        justify-content: center;
+        background-color: #ffffff;
+       height: hv;
+       margin-top: -5px;
+        
+    
+    }
+
+
+
+      .containerft{
+        height: 240px;
+        margin-top: -5px;
+        display: flex;
+        justify-content: center;
+       
+        background-color: #141414;
+        
+        
+        
+    }
+    .twentyone{
+        text-align: center;
+        color: white;
+        width: 20%;
+    margin-left: 45px;
+    margin-top: 90px;
+    
+    }
+    .twentyone h1{
+        font-size: 24px;
+        text-align: left;
+        
+    }
+    
+    .twentyone p{
+        font-size: 20px;
+        text-align: left;
+        
+    }
+    
+    .twentyone{
+        
+    }
+
+
+    .containers{
+    
+        display: flex;
+        justify-content: center;
+       
+        
+        
+    }
+    
+    
+    .eight{
+       width: 25%;
+       height: 240px;
+       background-color: #10c9c3;
+     }
+    
+    .eight img{
+      text-align: right;
+      margin: auto;
+      display: block;
+      margin-top: 120px;
+      
+     }
+    
+    
+    
+    
+    .eight h1{
+       font-size: 24px;
+       color: #ffffff;
+       text-align: left;
+       margin-top: 120px;
+     }
+     .eight p{
+        font-size: 16px;
+        color: #ffffff;
+        text-align: left;
+        
+        }
+      
+
+    
+    
+    .containernine{
+        height: hv;
+                display: flex;
+        justify-content: center;
+       
+        background-color: #f5f5f5;
+        display: block;
+        margin-top: -30px;
+       
+        
+        
+    }
+
+    .containerse{
+    
+    
+        display: flex;
+        justify-content: center;
+        height: 320px;
+        background-color: #10c9c3;
+       
+        
+        
+    }
+    .seventeen{
+        text-align: center;
+       
+    
+    }
+    
+    .seventeen h1{
+        color: white;
+        margin-top: 100px;
+        
+    }
+    .seventeen p{
+        color: white;
+        padding-top: 20px;
+        
+    }
+    .seventeen img{
+        padding-top: 40px;
+    
+        
+    }
+    
+    .nineteen{
+        margin-top: 30px;
+        text-align: center;
+    
+    }
+    .nineteen h1{
+      padding-top: 60px;
+        font-size: 40px;
+        
+    }
+    .nineteen p{
+        padding-top: 25px;
+        font-size: 21px;
+        
+    }
+    
+    form{
+        padding: 40px;
+        margin: 10px;
+        text-align: center;
+    }
+    input{
+    
+    
+        margin: 5px;
+    }
+    .title{
+        width: 36%;
+    
+    }
+    
+    .titlet{
+    
+        width: 36%;
+        height: 100px;
+    
+    
+    }
+    
+    .bt{
+        text-align: center;
+    
+    }
+    .btn{
+      text-align: center;
+       padding: 15px;
+       margin-left: 18px;
+       background-color: #10c9c3;
+       border-style: none;
+       margin-bottom: 30px;
+
+      
+      
+    
+
+    }
+    a .btm{
+        text-align: center;
+         padding: 15px;
+                  background-color: #10c9c3;
+         border-style: none;
+         margin-bottom: 30px;
+         display: inline-block;
+         margin-left: 550px;
+  
+        
+        
+      
+      }
+  
+
+
+
+    .containerf{
+    
+        display: flex;
+        justify-content: center;
+        background-color: #f7f8fa;
+    
+      
+    }
+    
+    .six{
+        width: 40%;
+        
+       
+      
+    }
+    .seven{
+       
+        width: 40%;
+      
+       text-align: center;
+       margin-left: 90px;
+    
+    
+    }
+
+    .containerff{
+    
+        display: flex;
+        justify-content: center;
+        background-color: #f7f8fa;
+        text-align: left;
+    
+      
+    }
+    
+    .containerff form{
+    
+      width: 50%;
+    
+      
+    }
+    
+    .six{
+        width:50%;
+        
+       
+      
+    }
+    .seven{
+       
+        width:50%;
+      
+       text-align: center;
+       
+    
+    
+    }
+    
+    .seven h1 {
+      
+       
+     font-size: 40px;
+     text-align: left;
+    
+    
+    }
+    .seven p {
+        margin-top: 20px;
+       
+     font-size: 20px;
+     text-align: left;}
+    
+     .seven h5{
+        margin-top: 16px;
+       
+     font-size: 20px;
+     text-align: left;}
+     meter{
+        margin-top: 16px;
+       
+        font-size: 20px;
+        text-align: left;
+        display: block;
+        width: 50%;
+        height: 8px;
+        color:#10c9c3;
+    
+     }
+
+     .containerel{
+    
+        display: flex;
+        background-color:#ffffff;
+        flex-flow: row wrap;
+        height: hv;
+       
+        
+        
+    }
+
+
+    .eleven {
+        width: 30%;
+        height: hv;
+        background-color:#ffffff;
+        margin: 20px;
+        
+        
+        
+     
+      
+
+    }
+
+    .eleven img{
+    margin: auto;
+    display: block;
+    }
+     
+    .right{ 
+  text-align: right;
+ display: block;
+      
+       
+    }
+
+    form{
+        padding: 40px;
+        
+        text-align: center;
+    }
+    input{
+    
+    
+        margin: 5px;
+    }
+    .title{
+        width: 78%;
+    
+    }
+    
+    .titlet{
+    
+        width: 78%;
+        height: 100px;
+       
+    
+    
+    }
+    
+    .bt{
+       text-align: left;
+       margin-left: 45px;
+    
+    }
+    .btn{
+      text-align: center;
+       padding: 15px;
+       margin-left: 18px;
+       background: #10c9c3;
+      
+      
+    
+    }
+    .sseven{
+        margin-top: 40px;
+    }
+    .sseven p{
+        padding-top: 5px;
+    }
+
+
+        
+        
+     
+  

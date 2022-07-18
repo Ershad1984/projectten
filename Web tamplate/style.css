@@ -1,0 +1,305 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+border-color: black;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+#header{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+    background-color: black;
+   
+}
+.logo-part{
+    width: 10%;
+    float: left;
+    padding: 10px;
+}
+
+.menu-part{
+    width: 60%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+    color: white;
+           
+}
+.memu-part nav ul{
+    margin: 25px auto;
+    text-align: center;
+   }
+.menu-part nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 20px;
+    color: rgb(71, 74, 255);
+    
+}
+.search-part{
+    width: 30%;
+    float: left;
+    padding: 15px;
+}
+
+.search-part i{
+    color: yellow;
+    padding: 30px;
+}
+#hero{
+   
+    background-image: url(hero.png);
+    width: 100%;
+    padding: 50px;
+    float: left;
+    color: white;
+
+
+
+}
+#hero .main-content{
+    width: 50%;
+    height: 500px;
+
+}
+.main-content h1{
+    padding: 100px;
+    
+    font-size: 70px;
+
+}
+.main-content p{
+    font-size: 30px;
+    padding: 20px;
+
+}
+.main-content a b{
+
+}
+#dancing{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #e8631c;
+
+
+}
+.dan h1{
+    text-align: center;
+    color: rgb(49, 201, 150);
+    
+    
+}
+.dan p{
+    text-align: center;
+    font-size: 15px;
+
+}
+#dan-img{
+    width: 100%;
+    margin: 10px 0;
+    padding: 0;
+    float: left;
+    background-color: #e8631c;
+
+
+}
+.one{
+    width: 33%;
+    float: left;
+    padding: 0 10px;
+}
+.two{
+    width: 33%;
+    float: left;
+    padding: 0 10px;
+
+}
+.three{
+    width: 34%;
+    float: left;
+    padding: 0 10px;
+
+}
+
+#pricing-img{
+    background-color:black);
+}
+
+.icon{
+    background-color: #e8631c;
+    width: 32%;
+    float: left;
+    margin: 5px;
+    padding: 10px 10px;
+    text-align: center;
+    height: 400px;
+
+}
+.icon h1{
+    padding: 20px 0;
+}
+
+.icon-2{
+    background-color: #e8631c;
+    width: 32%;
+    float: left;
+    margin: 5px;
+    padding: 10px 10px;
+    text-align: center;
+    height: 400px;
+
+}
+.icon-3{
+    background-color: #e8631c;
+    width: 32%;
+    float: left;
+    margin: 5px;
+    padding: 10px 10px;
+    text-align: center;
+    height: 400px;
+
+
+}
+
+.icon h1{
+    padding: 20px;
+}
+#amazing{
+    width: 100%;
+    float: left;
+}
+.five{
+    width: 50%;
+    float: left;
+    height: 600px;
+    background-image: url(p4.png);
+}
+.six{
+    width: 50%;
+    float: left;
+    background-color: #e8631c;
+    text-align: center;
+    height: 600px;
+
+}
+.six h1{
+    padding: 200px 5px 0;
+    color: wheat;
+    text-align: center;
+    
+   
+}
+
+.six p{
+   padding: 0 100px;
+    text-align: center;
+}
+#best{
+    width: 100%;
+}
+.seven{
+    width: 50%;
+    float: left;
+    height: 600px;
+    background-image: url(p5.png);
+
+}
+.eight h1{
+    padding: 200px 5px 0;
+    color: wheat;
+    text-align: center;
+
+}
+.eight p{
+    padding: 0 100px;
+    text-align: center;
+
+}
+.eight{
+   
+    width: 50%;
+    float: left;
+    background-color: #e8631c;
+    text-align: center;
+    height: 600px;
+
+}
+#our{
+    background-color: black;
+}
+.our-1 h1{
+    color: wheat;
+    text-align: center;
+    padding: 20px 0px;
+
+}
+.our-1 h2{
+    color: wheat;
+    text-align: center;
+
+}
+
+.our-1 p{
+    color: wheat;
+    text-align: center;
+
+}
+#hop{
+    width: 100%;
+background-image: url(p11.png);
+height: 1000px;
+}
+.hop-s h1{
+    color: wheat;
+    text-align: center;
+}
+#last{
+    background-color: #e8631c;
+    width: 100%;
+    height: 100%;
+}
+.last-p h1{
+    text-align: center;
+    color: wheat;
+
+}
+
+.last-p p{
+    text-align: center;
+
+}
+
+.last-p pp{
+    text-align: center;
+
+}
+
+#footer{
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.a{
+    width: 25%;
+    float: left;
+}
+.b{
+    width: 25%;
+    float: left
+
+}
+.c{
+    width: 25%;
+    float: left
+}
+.d{
+    width: 25%;
+    float: left
+}
+
+    

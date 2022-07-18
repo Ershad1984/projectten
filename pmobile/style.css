@@ -1,0 +1,660 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Work+Sans:ital,wght@1,100;1,200;1,400;1,600&display=swap');
+
+body{
+ 
+font-family: 'Work Sans', sans-serif;
+
+}
+
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+   
+  
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+
+
+header{
+    width: 100%;
+    float: left;
+background: url(bg.png) no-repeat center center;
+background-size: cover;
+color: white;
+margin-bottom: -100px;
+ 
+}
+.logo-part{
+    width: 20%;
+    float: left;
+
+}
+.logo-part img{
+    width: 50px;
+    height: 50px;
+}
+.menu-part{
+    width: 80%;
+    float: left;
+      text-align: center;
+  
+    
+
+}
+
+.menu-part nav ul li{
+    display: inline-block;
+    padding: 35px 50px ;
+    text-align: right;
+
+}
+#mobile{
+    width: 100%;
+    float: left;
+    text-align: center;
+   
+
+}
+.mobile-button{
+    padding: 5px;
+    margin: 10px 10px;
+
+}
+.btn-black{
+    padding: 2px;
+    border-color: white;
+    border-color: rgb(204, 16, 148);
+    border-radius: 5px;
+    width: 10%;
+    font-weight: 800;
+  
+    
+
+}
+.mobile-button :hover{
+    background-color: rgb(211, 34, 167);
+    border-radius: 30px;
+}
+.btn-white{
+    padding: 2px;
+    border-color: rgb(214, 22, 22);
+    background-color: #24b8ef;
+    border-radius: 5px;
+    width: 10%;
+    font-weight: 800;
+    margin-left: 20px;
+}
+
+.img{
+    position: relative;
+    margin-bottom: -90px;
+    margin-top: 20px;
+    width: 20%;
+}
+.btn-black :hover{
+    background-color: rgb(211, 34, 167);
+    border-radius: 10px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+
+#main{
+width: 100%;
+float: left;
+background-size: cover;
+background-image: url(v.png) ;
+
+
+backface-visibility: hidden;
+position: relative;
+top: -80px;
+
+
+
+
+
+ 
+ 
+
+}
+.img-part{
+    width: 40%;
+    float: left;
+    margin-top: 250px;
+    
+
+
+}
+.icon-part{
+    width: 60%;
+    float: left;
+    text-align: center;
+    margin-top: 250px;
+    
+}
+
+.icon-part-one{
+    width: 40%;
+    float: left;
+    box-shadow: 0px 0px 4px gray;
+    border-radius: 8px;
+    padding: 30px;
+    position: relative;
+margin-top: 30px;
+margin-right: 55px;
+
+   
+  
+    
+}
+.icon-part-two{
+    width: 40%;
+    float: left;
+    box-shadow: 0px 0px 4px gray;
+    border-radius: 8px;
+    padding: 30px;
+    position: relative;
+margin-top: 80px;
+margin-right: -20px;
+  
+}
+
+.icon-part-three{
+    width: 40%;
+    float: left;
+    box-shadow: 0px 0px 4px gray;
+    border-radius: 8px;
+    padding: 30px;
+    position: relative;
+left: -50px;
+}
+.icon-part-four{
+    width: 40%;
+    float: left;
+    box-shadow: 0px 0px 4px gray;
+    border-radius: 8px;
+    padding: 30px;
+    position: relative;
+    top: 150px;
+}
+
+#main-4{
+    width: 100%;
+    float: left;
+    background: white;
+}
+
+.main-4-img{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+
+.main-4-img h1{
+    text-align: right;
+       font-style: italic;
+       margin-top: 180px;
+       font-weight: bold;
+       padding-right: 50px;
+       
+
+
+}
+.main-4-img p{
+    text-align: right;
+    font-weight: 800;
+    margin-top: 12px;
+    padding-right: 50px;
+ 
+}
+
+.main-4-img a{
+    padding-right: 50px;
+    
+}
+.main-4-img a button{
+  margin: 15px;
+  text-align: right;
+background: #47c3fa;
+    padding: 8PX;
+    color: white;
+    
+}
+.btn-g{
+  background: #47c3fa;
+   
+}
+.main-4-img img{
+    margin-top: 200px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+
+}
+
+.main-4-write{
+    width: 50%;
+    float: left;
+    text-align: left;
+    margin-top: 160px;
+    padding-left: 15px;
+    
+}
+.main-write-d{
+    text-align: left;
+    font-style: italic;
+    margin-top: 150px;
+    font-weight: bold;
+    padding-right: 50px;
+    
+    
+}
+
+.main-4-d li{
+    padding: 15px;
+    list-style: none;
+
+
+}
+.c{
+    background: #47c3fa;
+
+    margin-top: 8px;
+    padding: 20px 0px;
+}
+.c h1{
+    font-size: 20px;
+}
+
+.e{
+    margin-top:105px;
+}
+
+.e h1{ padding: 10px;
+
+}
+.e li{
+    padding: 10px;
+    list-style: none;
+   
+    
+
+}
+
+.f-b{
+    background: #24b8ef;
+    color: #47c3fa;
+}
+.e p{
+    padding: 10px;
+
+}
+
+
+#main-2{
+    width: 100%;
+    float: left;
+    background: #27d7f2;
+  
+}
+
+
+.main-two-img{
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+.main-two-write{
+
+    width: 50%;
+    float: left;
+    text-align: left;
+    padding-top: 150px;
+}
+
+.main-two-img img{
+    text-align: center;
+}
+.main-two-write h1{
+    padding: 10px;
+
+}
+
+.main-two-write h2{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+.main-two-write a{
+    
+}
+
+.p{
+    padding: 8px;
+    font-weight: 800;
+    width: auto;
+    background: black;
+    color: white;
+    border-radius: 12px;
+
+
+}
+.q{
+    padding: 8px;
+    font-weight: 800;
+    width: auto;
+    background: black;
+    color: white;
+    border-radius: 12px;
+
+}
+
+#main-3{
+    width: 100%;
+    float: left;
+    background: #ffffff;
+    padding: 10px;
+}
+
+.main-3-button{
+    text-align: center;
+   
+    }
+    .main-3-button button{
+        background: #f95078;
+        color: white;
+        padding: 20px 50px;
+        position: relative;
+        top: -40px;
+        border: none;
+         
+                
+         }
+
+         .main-3{
+             background: darkgreen;
+         }
+
+         .main-3-write{
+             width: 100%;
+             float: left;
+             text-align: center;
+             margin-left:90px;
+             margin-top: 50px;
+             background: cornsilk;
+
+         }
+         .a1{
+             width: 20%;
+             float: left;
+             padding: 10px 10px;
+
+         }
+         .a2{
+            width: 20%;
+            float: left;
+            padding: 10px 10px;
+            text-align: center;
+
+        }
+        .a3{
+            width: 20%;
+             float: left;
+             padding: 10px 10px;
+
+        }
+        .a4{
+            width: 20%;
+             float: left;
+             padding: 10px 10px;
+
+        }
+        .merina{
+            width: 100%;
+            float: left;
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        .merina h4{
+            padding: 20px;
+            margin: 20px;
+            font-size: 50px;
+            font-weight: 900;
+
+        
+        }
+        .merina h5{
+            font-size: 20px;
+
+        }
+        .merina a{
+            padding: 20px;
+
+        }
+        .Merina button{
+            padding: 15px;
+
+        }
+        .merina a button{
+            padding: 10px 20px;
+            margin-top: 40px;
+            position: relative;
+            left: 300px;
+            background: #47c3fa;
+            bottom: 20px;
+
+        }
+
+
+
+footer{
+    width: 100%;
+    float: left;
+    background: #393357;
+
+}
+
+.fist h3{
+    color: white;
+    position: relative;
+   left: 78%;
+}
+
+.last{
+    width: 100%;
+    float: left;
+    display: inline-block;
+
+
+}
+
+.ershad{
+    width: 100%;
+    float: left;
+}
+.last{
+    width: 50%;
+    float: left;
+}
+.last li{
+    color: white;
+}
+.list-1{
+    width: 50%;
+    float: left;
+   
+
+}
+
+.last-1 ul li{
+    display: inline-block;
+    color: white;
+padding: 0px 35px 20px 35px;
+margin-left: 35px;
+
+}
+.br{
+
+}
+.ul{
+
+}
+
+
+
+    
+@media  (min-width: 200px)  and  (max-width: 600px) {
+.br{
+    display: none;
+}
+   
+    img{
+        width: 50px;
+        height: 100px;
+                }
+                .menu-part{
+                    text-align: left;
+                }
+                .menu-part nav ul li{
+                    padding: 12px 5px;
+                 
+                                 }
+                                 .logo-part img{
+                                     width: 25px;
+                                     height:25px;
+                                 }
+                                 #mobile img{
+                                     width: 80px;
+                                     height: 200px;
+
+                                 }
+                                 h1{
+                                    font-size: 20px;
+
+                                }
+                                header{
+                                    margin: auto;
+                                    padding: 0;
+                                }
+                                .btn-black{
+                                    padding: 20px;
+                                    font-size: 10px;
+                                width: auto; 
+                                border-style: double;
+                                   
+                                }
+
+                                .btn-white{
+                                    padding: 20px;
+                                    font-size: 10px;
+                                width: auto; 
+                                
+                                   
+                                }
+                                #main{
+                                   position: relative;
+                                   top: 0px;
+                                   background: #f95078;
+                                }
+                                .merina a button{
+                                   
+                                    position: relative;
+                                    left: auto;
+
+                                }
+                                .merina h4{
+                                    font-size: 30px;
+                                }
+                                .merina h5{
+                                    font-size: 25px;
+                                }
+                                .main-3-write{
+                                    margin: 30px;
+                                   
+                                  
+                                }
+                                .main-3-write h1{
+                                    font-size: 15px;
+                                    padding: 15px;
+                                    margin-right: 3px;
+                                  font-style: normal;
+                                  font: optional;
+                                }
+                                .a1 h1{
+                                    padding: 25px;
+                                    margin-right: 3px;
+                                    font-size: 10px;
+                                    
+                                    
+                                }
+                                .a2 h1 {padding: 25px;
+                                    margin-right: 3px;
+                                    font-size: 10px;
+                                }
+    
+                                .a3 h1{
+                                    padding: 25px;
+                                    margin-right: 3px;
+                                   
+                                    font-size: 10px;
+                                }
+                                .a4 h1{
+                                    padding: 25px;
+                                    margin-right: 3px;
+                                    margin-left: 10px;
+                                   
+                                    font-size: 10px;
+                                }
+                                .a1 p{
+                                    padding: 25px;
+                                    margin-right: 3px;
+                                    font-size: 10px;
+                                    
+                                    
+                                }
+                                .a2 p {padding: 25px;
+                                    margin-right: 3px;
+                                    font-size: 10px;
+                                }
+    
+                                .a3 p{
+                                    padding: 25px;
+                                    margin-right: 3px;
+                                   
+                                    font-size: 10px;
+                                }
+                                .a4 p{
+                                    padding: 25px;
+                                    margin-right: 3px;
+                                    margin-left: 10px;
+                                   
+                                    font-size: 10px;
+                                }
+
+
+                                .img-part{
+                                width:20%;
+                                    
+                                }
+                                .icon-part{
+                                    width: 80%;
+                                }
+                                .main-two-write{
+                                    padding-top: 5Px;
+                                }
+
+
+  }
+  
+
